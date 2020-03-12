@@ -1,0 +1,12 @@
+.wrapper {
+  width: 300px;
+  height: 300px;
+  margin: 100px 140px;
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 20px;
+}
+/* .wrapper:hover {
+  transform: scale(1.5);
+} */
